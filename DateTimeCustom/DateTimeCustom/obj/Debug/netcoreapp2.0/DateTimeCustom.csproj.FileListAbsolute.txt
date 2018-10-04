@@ -1,9 +1,0 @@
-c:\users\ted\source\repos\DateTimeCustom\DateTimeCustom\bin\Debug\netcoreapp2.0\DateTimeCustom.deps.json
-c:\users\ted\source\repos\DateTimeCustom\DateTimeCustom\bin\Debug\netcoreapp2.0\DateTimeCustom.dll
-c:\users\ted\source\repos\DateTimeCustom\DateTimeCustom\bin\Debug\netcoreapp2.0\DateTimeCustom.pdb
-c:\users\ted\source\repos\DateTimeCustom\DateTimeCustom\obj\Debug\netcoreapp2.0\DateTimeCustom.csprojResolveAssemblyReference.cache
-c:\users\ted\source\repos\DateTimeCustom\DateTimeCustom\obj\Debug\netcoreapp2.0\DateTimeCustom.csproj.CoreCompileInputs.cache
-c:\users\ted\source\repos\DateTimeCustom\DateTimeCustom\obj\Debug\netcoreapp2.0\DateTimeCustom.AssemblyInfoInputs.cache
-c:\users\ted\source\repos\DateTimeCustom\DateTimeCustom\obj\Debug\netcoreapp2.0\DateTimeCustom.AssemblyInfo.cs
-c:\users\ted\source\repos\DateTimeCustom\DateTimeCustom\obj\Debug\netcoreapp2.0\DateTimeCustom.dll
-c:\users\ted\source\repos\DateTimeCustom\DateTimeCustom\obj\Debug\netcoreapp2.0\DateTimeCustom.pdb
