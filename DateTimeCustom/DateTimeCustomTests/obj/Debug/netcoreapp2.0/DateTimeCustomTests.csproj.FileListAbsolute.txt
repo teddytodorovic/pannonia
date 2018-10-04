@@ -1,0 +1,16 @@
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\bin\Debug\netcoreapp2.0\DateTimeCustomTests.deps.json
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\bin\Debug\netcoreapp2.0\DateTimeCustomTests.runtimeconfig.json
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\bin\Debug\netcoreapp2.0\DateTimeCustomTests.runtimeconfig.dev.json
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\bin\Debug\netcoreapp2.0\DateTimeCustomTests.dll
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\bin\Debug\netcoreapp2.0\DateTimeCustomTests.pdb
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\obj\Debug\netcoreapp2.0\DateTimeCustomTests.csprojResolveAssemblyReference.cache
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\obj\Debug\netcoreapp2.0\DateTimeCustomTests.csproj.CoreCompileInputs.cache
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\obj\Debug\netcoreapp2.0\DateTimeCustomTests.AssemblyInfoInputs.cache
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\obj\Debug\netcoreapp2.0\DateTimeCustomTests.AssemblyInfo.cs
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\obj\Debug\netcoreapp2.0\DateTimeCustomTests.dll
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\obj\Debug\netcoreapp2.0\DateTimeCustomTests.pdb
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\bin\Debug\netcoreapp2.0\DateTimeCustom.dll
+c:\users\ted\source\repos\DateTimeCustom\DateTimeCustomTests\bin\Debug\netcoreapp2.0\DateTimeCustom.pdb
