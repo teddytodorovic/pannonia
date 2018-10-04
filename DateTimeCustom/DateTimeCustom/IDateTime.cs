@@ -6,6 +6,6 @@ namespace DateTimeCustom
 {
     public interface IDateTime
     {
-
+        public DateTime DateTime { get; set; }
     }
 }

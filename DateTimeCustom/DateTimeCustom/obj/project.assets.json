@@ -1341,11 +1341,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\ted\\source\\repos\\DateTimeCustom\\DateTimeCustom\\DateTimeCustom.csproj",
+      "projectUniqueName": "C:\\Users\\TED\\source\\repos\\pannonia\\DateTimeCustom\\DateTimeCustom\\DateTimeCustom.csproj",
       "projectName": "DateTimeCustom",
-      "projectPath": "c:\\users\\ted\\source\\repos\\DateTimeCustom\\DateTimeCustom\\DateTimeCustom.csproj",
+      "projectPath": "C:\\Users\\TED\\source\\repos\\pannonia\\DateTimeCustom\\DateTimeCustom\\DateTimeCustom.csproj",
       "packagesPath": "C:\\Users\\TED\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\ted\\source\\repos\\DateTimeCustom\\DateTimeCustom\\obj\\",
+      "outputPath": "C:\\Users\\TED\\source\\repos\\pannonia\\DateTimeCustom\\DateTimeCustom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
