@@ -4,9 +4,14 @@ namespace DateTimeCustom
 {
     public class DateCalculate
     {
-        public DateTime Calculate5DayAhead(DateTime currentDate)
+
+        private IDateTime currentdate;
+
+        public IDateTime Currentdate { get => currentdate; set => currentdate = value; }
+
+        public DateTime Calculate5DayAhead()
         {
-            return currentDate.AddDays(5);
+            return currentdate.Today.AddDays(5);
         }
         
     }
