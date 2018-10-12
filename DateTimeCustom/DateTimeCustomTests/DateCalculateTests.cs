@@ -9,6 +9,8 @@ namespace DateTimeCustomTests
     [TestClass]
     public class DateCalculateTests
     {
+        //<method>_Should<expected>_When<condition>
+        //Deposit_ShouldIncreaseBalance_WhenGivenPositiveValue()
 
         StandardKernel kernel = new StandardKernel();
 
@@ -22,11 +24,10 @@ namespace DateTimeCustomTests
         }
 
         [TestMethod]
-        public void Easy()
+        public void DateCalculate_ShouldBeCorrect_When()
         {
             DateCalculate dateCalculate = new DateCalculate();
             dateCalculate.Currentdate = kernel.Get<IDateTime>();
-
             DateTime result = dateCalculate.Calculate5DayAhead();
             Assert.AreEqual(result, new DateTime(2018, 10, 7));
         }
